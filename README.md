@@ -1,3 +1,6 @@
+# Moved!
+This repository moved to : https://github.com/OnitiFR/mulch
+
 # Mulch
 Easy VM creation and management tool: velvet applications in an iron hypervisor
 
